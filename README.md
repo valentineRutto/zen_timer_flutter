@@ -2,6 +2,12 @@
 
 A beautiful cross-platform Pomodoro timer app with ambient sounds and customizable themes, converted from React to Flutter.
 
+## Live Demo
+
+[Watch the web version demo](recordings/zen_timer_web_live.webm)
+
+<video src="recordings/zen_timer_web_live.webm" controls width="100%"></video>
+
 ## Features
 
 - ⏱️ **Countdown & Countup Timers** - Choose between traditional countdown or open-ended countup mode
